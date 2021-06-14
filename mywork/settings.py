@@ -25,7 +25,7 @@ SECRET_KEY = 'c42+53w9u*%*v6t-+&sf)x4b*)o)9(9y=*c-kau$pvo&9*44b6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'vijayadav.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vijayvns.pythonanywhere.com']
 
 
 # Application definition
